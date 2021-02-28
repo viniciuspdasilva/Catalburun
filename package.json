@@ -1,0 +1,24 @@
+{
+  "name": "finac-pessoal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/eslint": "^7.2.6",
+    "@types/express": "^4.17.11",
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.31",
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "eslint": "^7.21.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^26.6.3",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
